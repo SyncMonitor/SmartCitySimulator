@@ -4,7 +4,7 @@ Temp sensors and Float sensor and it's aim is provide a mapping of a city. Padua
 
 For now
 
-https://syncmonitor.altervista.org/smartcityPadova/user
+https://syncmonitor.altervista.org/smartcitySimulator/user
 
 https://syncmonitor.altervista.org/
 
